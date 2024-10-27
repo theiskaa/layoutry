@@ -8,15 +8,10 @@
  <a href="https://pub.dev/packages/layoutry">
   <img src="https://img.shields.io/pub/v/layoutry?color=blue" alt="pub version" />
  </a>
-  <a href="https://github.com/insolite-dev/layoutry/blob/main/LICENSE">
+  <a href="https://github.com/theiskaa/layoutry/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red.svg"
       alt="License: MIT" />
   </a>
- <br>
-  <a href="https://discord.gg/CtStkzrHV3">
-    <img src="https://img.shields.io/discord/914899238415130714?color=blue&label=Insolite Community&logo=discord"
-      alt="Insolite Community Discord Invite Link" />
-  </a>   
 </p>
 
 ## Installing

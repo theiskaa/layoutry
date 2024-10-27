@@ -1,7 +1,9 @@
 name: layoutry
 description: A simple layout information builder for your Flutter project.
 version: 1.0.0
-homepage: https://github.com/insolite-dev/layoutry
+homepage: https://github.com/theiskaa/layoutry
+issue_tracker: https://github.com/theiskaa/layoutry/issues
+documentation: https://github.com/theiskaa/layoutry#readme
 
 environment:
   sdk: '>=2.18.2 <3.0.0'

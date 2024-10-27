@@ -1,9 +1,3 @@
-//
-// Copyright 2023 present Insolite. All rights reserved.
-// Use of this source code is governed by MIT license
-// that can be found in the LICENSE file.
-//
-
 import 'package:flutter/material.dart';
 
 // TODO: Has to be re-calculated ~ exact ~ widths.
